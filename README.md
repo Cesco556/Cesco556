@@ -1,81 +1,63 @@
-# Francesco Cesco
+# Francesco O. Ojoko
 
-**MSc Cybersecurity | Banking & Finance Background | Bridging Finance and Security**
+**MSc Cybersecurity | Banking & Finance Background | Building Security Systems That Protect Financial Infrastructure**
 
-Graduating MSc Cybersecurity student at Robert Gordon University with 4+ years professional experience in finance and IT. Combining technical security expertise with financial sector knowledge to protect banking systems, FinTech platforms, and payment infrastructure.
+---
 
-## 🎓 Education
+## 🔧 What I Build
 
-**MSc Cybersecurity** - Robert Gordon University, Aberdeen (2024-2025)
-- Grade A achievements in Penetration Testing (91.8%) and ISO 27005 Risk Assessment
-- Focus: Financial services security, ML-driven threat detection, risk governance
+I bridge **finance domain expertise** with **cybersecurity engineering**. My work focuses on the intersection: detecting financial crime, protecting payment systems, and automating compliance.
 
-**BSc Banking & Finance (2:1)** - Nnamdi Azikiwe University, Nigeria (2019-2023)
-- Foundation in financial operations, risk management, regulatory frameworks
+### 🏦 [AML Transaction Monitoring Engine](https://github.com/Cesco556/aml-transaction-monitoring-engine)
+**Enterprise-grade Anti-Money Laundering platform** — not a toy demo, a production-ready system.
 
-## 💼 Professional Experience
+| Capability | Implementation |
+|-----------|---------------|
+| **Detection** | 8 configurable rules + Isolation Forest ML (hybrid approach) |
+| **Sanctions** | Fuzzy matching (Jaro-Winkler, Levenshtein, phonetic) + OFAC SDN + PEP screening |
+| **Scoring** | Weighted severity, temporal decay, customer risk profiles |
+| **Network** | Graph analysis, community detection (Louvain), money flow tracing |
+| **Streaming** | Real-time consumer + WebSocket alerts + deduplication |
+| **Compliance** | FinCEN SAR (XML), PDF reports, regulatory timelines, audit exports |
+| **Infrastructure** | FastAPI + Docker Compose + PostgreSQL + Redis + 368 tests |
 
-**Technology Advisory Consultant** - Bocheng Consulting Ltd (2021-2023)
-- IT infrastructure management, security compliance, system optimization
-- Technology consulting for financial operations
+> Competes with commercial tools like Actimize, Featurespace, and Feedzai — except it's open-source.
 
-**Finance/IT Support** - Sabfranco (2023-2025)
-- 4+ years combined experience in finance operations and IT infrastructure
-- Network security, firewall management, incident response
+---
 
-## 🔒 Security Expertise
+## 🛠️ Technical Skills
 
-### Penetration Testing & Red Team
-- Black-box security assessments with root access exploitation
-- CVE exploitation: ProFTPD, UnrealIRCd, Drupal, vsftpd
-- Privilege escalation via Docker misconfiguration
-- MITRE ATT&CK framework application (10/11 tactics)
+**Security:** Metasploit, nmap, Burp Suite, OWASP ZAP, Wireshark, Gobuster, Kali Linux
 
-### Risk Management & Governance
-- ISO 27005 risk assessments with comprehensive risk registers
-- ISO 27001 Annex A control mapping
-- Security policy development (Access Control, BYOD, Incident Response)
-- Threat modeling and vulnerability analysis
-
-### Machine Learning for Security
-- Two-stage intrusion detection pipeline (96.5% F1-score)
-- Random Forest/XGBoost for binary threat detection
-- BiLSTM neural networks for attack classification
-- Adversarial robustness and concept drift management
-
-## 🛠️ Technical Stack
-
-**Security Tools:** Metasploit, nmap, Burp Suite, OWASP ZAP, Wireshark, Gobuster, searchsploit, Kali Linux
-
-**ML/Data Science:** Python, scikit-learn, XGBoost, TensorFlow/Keras, pandas, SMOTE
+**Programming:** Python, SQL, Bash | FastAPI, SQLAlchemy, scikit-learn, NetworkX, pandas
 
 **Frameworks:** ISO 27001/27005, MITRE ATT&CK, NIST, OWASP
 
-**Systems:** Linux (Kali, Ubuntu), Windows, Bash scripting
+**Infrastructure:** Docker, PostgreSQL, Redis, Alembic, GitHub Actions
 
-## 🏆 Certifications
+**Systems:** Linux (Kali, Ubuntu), Windows
 
-- **CompTIA Security+** (SY0-701) - 2025
-- **TryHackMe:** Pre-Security Path (Completed), SOC Level 1 (In Progress)
+## 📜 Certifications
 
-## 📊 Featured Projects
+- **CompTIA Security+** (SY0-701) — 2025
+- TryHackMe: Pre-Security ✅ | SOC Level 1 (In Progress)
 
-### 1. Black-Box Penetration Testing (Grade A - 91.8%)
-Comprehensive security assessment achieving root access through exploitation of 9 services and privilege escalation. Full MITRE ATT&CK coverage including initial access, persistence, privilege escalation, and data exfiltration.
+## 🎓 Education
 
-### 2. ISO 27005 Risk Assessment (Grade A)
-Enterprise risk assessment for fictional FlightOps Ltd with 14-risk register, ISO 27001 control mapping, and comprehensive security policies addressing access control, BYOD, and incident response.
+| Degree | Institution | Year |
+|--------|------------|------|
+| MSc Cybersecurity | Robert Gordon University, Aberdeen | 2024-2025 |
+| BSc Banking & Finance (2:1) | Nnamdi Azikiwe University, Nigeria | 2019-2023 |
 
-### 3. ML-Driven Intrusion Detection (96.5% F1-Score)
-Two-stage machine learning pipeline for network intrusion detection and attack classification. Stage 1 achieves 96.5% F1-score with 97.9% recall using Random Forest/XGBoost. Stage 2 uses BiLSTM for multi-class attack classification across 14 attack types.
+## 📊 Academic Highlights
 
-## 🎯 Current Focus
+- **Penetration Testing:** 91.8% (Grade A) — Root access on 9 services, full MITRE ATT&CK mapping
+- **ISO 27005 Risk Assessment:** Grade A — 14-risk register, ISO 27001 controls
+- **ML Intrusion Detection:** 96.5% F1-score — Random Forest/XGBoost + BiLSTM pipeline
 
-Seeking **graduate opportunities** in:
-- Financial Services Cybersecurity (Banks, FinTech, Payment Processors)
-- Security Operations Center (SOC) roles
-- Technology Risk & Compliance
-- Big 4 Consulting (PwC, Deloitte, EY, KPMG)
+## 🎯 Seeking
+
+Graduate roles in **Financial Services Cybersecurity**, **SOC**, **Technology Risk & Compliance**, or **Big 4 Consulting**.
 
 ## 📫 Connect
 
@@ -84,4 +66,4 @@ Seeking **graduate opportunities** in:
 
 ---
 
-*Combining Banking & Finance knowledge with Cybersecurity expertise to protect financial systems and communicate risk to business stakeholders.*
+*Building systems that protect financial infrastructure. Code speaks louder than CVs.*
